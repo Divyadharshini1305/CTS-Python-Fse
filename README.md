@@ -1,4 +1,3 @@
-# CTS-Python-Fse
 # CTS Digital Nurture 5.0 - Python FSE Deep Skilling
 
 This repository contains my solutions, hands-on exercises, and learning activities completed as part of the Cognizant Digital Nurture 5.0 (DN 5.0) Deep Skilling Program for the Python Full Stack Engineer (FSE) track.
